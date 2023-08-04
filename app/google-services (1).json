@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1086859608945",
+    "project_id": "adstest-db26d",
+    "storage_bucket": "adstest-db26d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086859608945:android:7d64331363b2721546ecd0",
+        "android_client_info": {
+          "package_name": "com.example.adstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086859608945-a0jeuqnh3fmiic1hokon37f65sv7vn9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adstest",
+            "certificate_hash": "097e7ee06f47a9783ec9fef50c5783fbe375e20d"
+          }
+        },
+        {
+          "client_id": "1086859608945-5rmr4c1jts6f52tr0jrgk3g5e31dv0g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQvjAvT4bxPO9Yue3BjMK9NkvegiOyy4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086859608945-5rmr4c1jts6f52tr0jrgk3g5e31dv0g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
